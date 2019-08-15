@@ -1,5 +1,5 @@
 {
-  "libros": [
+  "productos": [
     {
       "id": 1,
       "nombre": "Aprendiendo Redux 8",
